@@ -8,7 +8,13 @@ Para correr el proyecto, sigue estos pasos:
    yarn
    ```
 
-2. Ejecuta este comando para ejecutar el proyecto
+2. Ejecuta el siguiente comando para cargar los estilos
+
+   ```bash
+   npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+   ```
+
+3. Ejecuta el siguiente **EN OTRA TERMINAL** comando para ejecutar el proyecto
    ```bash
    yarn dev
    ```
