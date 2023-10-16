@@ -1,8 +1,14 @@
-# React + Vite
+# Parte Web del proyecto donde aprendo a conectar NodeJS con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Para correr el proyecto, sigue estos pasos:
 
-Currently, two official plugins are available:
+1. Ejecuta el siguiente comando para instalar las dependencias:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ```bash
+   yarn
+   ```
+
+2. Ejecuta este comando para ejecutar el proyecto
+   ```bash
+   yarn dev
+   ```
